@@ -55,3 +55,4 @@ You first need to install [RED4ext](https://github.com/WopsS/RED4ext).
 If you wish to contribute to the main repo, try to follow the coding style in the code, otherwise not much to say, don't use code that is not yours unless the license is compatible with MIT.
 
 As for the wiki, please ask on discord for write permissions.
+
